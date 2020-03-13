@@ -1,0 +1,26 @@
+Checks: "-*"
+CheckOptions:
+  - key:            Indent.IndentStyle
+    value:          spaces
+  - key:            Indent.IndentSize
+    value:          4
+  - key:            MaxLineLength.MaxLineLength
+    value:          80
+  - key:            MaxLinesPerFunction.LineThreshold
+    value:          50
+  - key:            MacroNaming.MacroCase
+    value:          UPPER_CASE
+  - key:            ClassNaming.ClassCase
+    value:          CamelCase
+  - key:            MethodNaming.MethodCase
+    value:          camelBack
+  - key:            FunctionNaming.FunctionCase
+    value:          camelBack
+  - key:            ParameterNaming.ParameterCase
+    value:          camelBack
+  - key:            LocalVariableNaming.LocalVariableCase
+    value:          camelBack
+  - key:            GlobalVariableNaming.GlobalVariablePrefix
+    value:          g
+  - key:            GlobalVariableNaming.GlobalVariableCase
+    value:          CamelCase
