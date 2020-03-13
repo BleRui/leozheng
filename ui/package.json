@@ -16,7 +16,7 @@
         "echarts": "^4.1.0",
         "element-ui": "^2.4.11",
         "iview": "^3.2.2",
-        "jquery": "^2.2.4",
+        "jquery": "^3.4.0",
         "moment": "^2.24.0",
         "vee-validate": "^2.2.5",
         "vue": "^2.5.2",
